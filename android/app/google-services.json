@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236484086618",
+    "project_id": "ahuc-app",
+    "storage_bucket": "ahuc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236484086618:android:f4f2d5e17a4a409dfc8163",
+        "android_client_info": {
+          "package_name": "com.example.ahuc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236484086618-aki4dbieq9mjeb7110ke0v6em81piih7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMDOGL1zGHpx9_i38odRWH1jxneW5EqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236484086618-aki4dbieq9mjeb7110ke0v6em81piih7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
